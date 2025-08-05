@@ -11,5 +11,6 @@ Highlights:
 ⭐ At the end Deployment like a pro for FREE!
 ⏳ And much more!
 
-
+ Highlights:
+ 🌟 Tech stack: MERN + Socket.io + TailwindCSS + Daisy UI 🎃 Authentication && Authorization with JWT
 
