@@ -22,32 +22,10 @@ CLOUDINARY_API_SECRET=...
 
 NODE_ENV=development
 Build the app
-npm run build
+
+npm run dev
+
 Start the app
 npm start
-About
-Real Time Chat App with Awesome UI
 
-Resources
- Readme
-License
- MIT license
- Activity
-Stars
- 836 stars
-Watchers
- 7 watching
-Forks
- 294 forks
-Report repository
-Releases
-No releases published
-Packages
-No packages published
-Languages
-JavaScript
-99.3%
- 
-Other
-0.7%
-Footer
+
