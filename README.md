@@ -12,5 +12,6 @@ Highlights:
 ⏳ And much more!
 
  Highlights:
- 🌟 Tech stack: MERN + Socket.io + TailwindCSS + Daisy UI 🎃 Authentication && Authorization with JWT
+ 🌟 Tech stack: MERN + Socket.io + TailwindCSS + Daisy UI
+ 🎃 Authentication && Authorization with JWT
 
